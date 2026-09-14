@@ -1,9 +1,8 @@
-# Runtime stats/log data, not source — same folder deploy-site already excludes.
+# Runtime stats/log data, not source — same folder deploy-proxysearch.org already excludes.
 stats/
 
 .DS_Store
-deploy-site
 
-# Stamped fresh by deploy-site on every deploy; not source.
+# Stamped fresh by deploy-proxysearch.org on every deploy; not source.
 .deploy-version
 .well-known/security.txt

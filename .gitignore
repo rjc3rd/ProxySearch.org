@@ -7,5 +7,7 @@ stats/
 .deploy-version
 .well-known/security.txt
 
-# No .md files ever go to GitHub — standing rule.
+# No .md files ever go to GitHub — standing rule. README.md is the one
+# exception (meant to be used on GitHub).
 *.md
+!README.md

@@ -6,3 +6,6 @@ stats/
 # Stamped fresh by deploy-proxysearch.org on every deploy; not source.
 .deploy-version
 .well-known/security.txt
+
+# No .md files ever go to GitHub — standing rule.
+*.md
